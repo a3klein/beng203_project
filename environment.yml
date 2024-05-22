@@ -1,0 +1,9 @@
+name: cancer_RC
+channels: 
+  - conda-forge
+  - base
+  - pip
+dependencies: 
+  - python
+  - pip
+
